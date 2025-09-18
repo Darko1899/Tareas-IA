@@ -1,0 +1,31 @@
+Ejercicio: Planificando Rutas de Autobús 🚌
+
+Imagina que eres el encargado de optimizar las rutas de autobús en una ciudad. La ciudad tiene varias paradas, y las conexiones entre ellas tienen un costo, que representa el tiempo de viaje en minutos. Tu tarea es encontrar la ruta más rápida desde la parada principal (A) a todas las demás paradas de la ciudad.
+
+El Grafo de la Ciudad:
+
+Las paradas de autobús y sus tiempos de viaje se representan en el siguiente grafo: .
+
+    Paradas (nodos): A, B, C, D, E, F, G, H
+
+    Conexiones (aristas) y tiempos (pesos):
+
+        A a B: 4 minutos
+
+        A a C: 2 minutos
+
+        B a E: 3 minutos
+
+        C a D: 2 minutos
+
+        C a E: 5 minutos
+
+        D a F: 3 minutos
+
+        E a G: 2 minutos
+
+        E a D: 4 minutos
+
+        F a H: 2 minutos
+
+        G a H: 1 minuto
